@@ -1,2 +1,2 @@
 # Emote.ai
-MVP developement for Emote.ai
+MVP development for Emote.ai
